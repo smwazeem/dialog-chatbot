@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca13eccf.chunk.css",
+    "main.js": "/static/js/main.05f4e4b0.chunk.js",
+    "main.js.map": "/static/js/main.05f4e4b0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.47e14a20.js",
+    "runtime~main.js.map": "/static/js/runtime~main.47e14a20.js.map",
+    "static/css/2.76eed66f.chunk.css": "/static/css/2.76eed66f.chunk.css",
+    "static/js/2.e55e9f43.chunk.js": "/static/js/2.e55e9f43.chunk.js",
+    "static/js/2.e55e9f43.chunk.js.map": "/static/js/2.e55e9f43.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dc686ce98ede6221c518bb400ed36cd9.js": "/precache-manifest.dc686ce98ede6221c518bb400ed36cd9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.76eed66f.chunk.css.map": "/static/css/2.76eed66f.chunk.css.map",
+    "static/css/main.ca13eccf.chunk.css.map": "/static/css/main.ca13eccf.chunk.css.map",
+    "static/media/botimg.jpg": "/static/media/botimg.3d08ae1e.jpg",
+    "static/media/micBtn.png": "/static/media/micBtn.d32fe79f.png",
+    "static/media/pulztecLogo.png": "/static/media/pulztecLogo.40a8e042.png",
+    "static/media/sendBtn.png": "/static/media/sendBtn.5170c5cd.png"
+  }
+}
